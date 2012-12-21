@@ -9,7 +9,9 @@ import java.util.Date;
  * Time: 5:33 PM
  * To change this template use File | Settings | File Templates.
  */
-public class Teste {
+public class Teste implements TT{
+
+    private TT t;
 
     public static void main(String[] args) {
 
